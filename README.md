@@ -9,4 +9,4 @@ Hướng dẫn chạy
 3 - Mở PowerShell tại thư mục book_management.
 - npm install
 - npm run dev
-4. truy cập vào link http://localhost:5173/login để đăng nhập.
+4. truy cập vào link http://localhost:5173/login để đăng nhập.# book_management
